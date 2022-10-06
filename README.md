@@ -31,3 +31,5 @@ In this folder you will see multiple cloud formation templates and 1 image of Ar
               4 Private Subnets — two in us-east1a & two in us-east1b
               AutoScaling Group for two Private Subnets in the Application tier
         
+	database.yml
+		As file name suggested, it will have RDS instance and related configuration.
