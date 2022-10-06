@@ -7,10 +7,13 @@ There are 3 different folders for 3 tasks.
 2. EC2 Metadata
 3. Code
 
-1. 3-tier Architecture
+
+**3-tier Architecture**
 
 In this folder you will see multiple cloud formation templates and 1 image of Architecture design which we are trying to achieve.
+
   Cloud formation Templates
+	
       infra-kpmg.yml 
           This template will create following resource
               VPC
